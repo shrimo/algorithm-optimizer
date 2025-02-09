@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# models
+*.pth
+
 # C extensions
 *.so
 
@@ -169,5 +172,3 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
-# models
-.pth
